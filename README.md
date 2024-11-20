@@ -69,9 +69,3 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 
 Please make sure to update tests as appropriate and follow the [code of conduct](CODE_OF_CONDUCT.md).
 
-## 📝 License
-
-This project is licensed under the [MIT License](LICENSE).
-```
-
-In this version, I've added emojis to various sections, aligned the title to the center, and included a placeholder logo. You can replace `logo.png` with the actual logo file for your application. This enhanced version should make your README.md more visually appealing and engaging.
